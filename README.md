@@ -1,7 +1,7 @@
-# bash
-Ejemplos sencillos de Shell Scripts en Bash
+## Bash
+# Ejemplos sencillos de Shell Scripts en Bash
 
-1) Escribir un script que muestre el nombre de la máquina, nuestro nombre de usuario, el identificador de usuario, el identificador de grupo, la ruta de nuestra carpeta personal y el directorio en el que nos encontramos actualmente.
+**1)** Escribir un script que muestre el nombre de la máquina, nuestro nombre de usuario, el identificador de usuario, el identificador de grupo, la ruta de nuestra carpeta personal y el directorio en el que nos encontramos actualmente.
 
 2) Realiza un backup de la carpeta personal de un usuario utilizando el comando tar.
 
