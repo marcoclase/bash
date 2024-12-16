@@ -19,7 +19,7 @@
 
 **9)** Crear un fichero con de nombre copia.bkp, donde se almacenen comprimidos todos los ficheros que se pasen por parámetros.
 
-**10)** Escribir un script para ordenar alfabeticamente un archivo de texto. El segundo parámetro debe ser el nombre del fichero, el primer parámetro sera -A para una ordenación ascendentemente o -Z para una ordenación descendentemente.
+**10)** Escribir un script para ordenar alfabéticamente un archivo de texto. El segundo parámetro debe ser el nombre del fichero, el primer parámetro sera -A para una ordenación ascendentemente o -Z para una ordenación descendentemente.
 
 **11)** Escribir un script que nos pida el año de nacimiento y muestre el signo del zodiaco chino que eres.
 
