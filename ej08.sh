@@ -1,5 +1,5 @@
 #!/bin/bash
-#Escribir un script que al pasarle por argumento un archivo o directorio,
+#Script que al pasarle por argumento un archivo o directorio,
 #devuelve el tamaño en MB.
 
 if [ $# -lt 1 ]
