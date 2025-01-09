@@ -1,4 +1,5 @@
 #/!bin/bash
+#Muestra la tabla de multiplicar del número pasado como parámetro.
 if [ $# -eq 1 ]
 then
   echo " la tabla de multiplicar de $1 es: "
