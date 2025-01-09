@@ -3,7 +3,7 @@
 
 **1)** Script que muestra el nombre de la máquina, nuestro nombre de usuario, el identificador de usuario, el identificador de grupo, la ruta de nuestra carpeta personal y el directorio en el que nos encontramos actualmente utilizando variables de entorno.
 
-**2)** Realizá un backup de nuestra carpeta personal utilizando el comando tar.
+**2)** Realiza un backup de nuestra carpeta personal utilizando el comando tar.
 
 **3)** Script que funciona como una calculadora para sumar, restar, multiplicar y dividir.
 
@@ -17,7 +17,7 @@
 
 **8)** Script que al pasarle un archivo o directorio como parámetro devuelve su tamaño en MB.
 
-**9)** Crea un fichero con de nombre copia.bkp, donde se almacenen comprimidos todos los ficheros pasados comom parámetros.
+**9)** Crea un fichero con de nombre copia.bkp, donde se almacenen comprimidos todos los ficheros pasados como parámetros.
 
 **10)** Script para ordenar alfabéticamente un archivo de texto. El primer parámetro debe ser -A para una ordenación ascendentemente o -Z para una ordenación descendentemente y el segundo parámetro debe ser el nombre del fichero.
 
