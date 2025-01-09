@@ -1,5 +1,5 @@
 #!/bin/bash
-#Escribir un script que al pasarle por argumento un parámetro, determine 
+#Script que al pasarle un parámetro determina 
 #si es archivo, directorio, o si el parámetro no existe.
 
 if [ $# -lt 1 ]
