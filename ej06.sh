@@ -1,7 +1,6 @@
 #!/bin/bash
-#Crear un shell script que liste todos los directorios y subdirectorios
-#recursivamente de uno dado. El directorio será introducido como argumento
-#y el guión lo primero que hará será verificar si es un directorio.
+#Script que lista todos los directorios y subdirectorios
+#recursivamente del indicado como argumento.
 
 if [ ! $# -eq 1 ]
 then
