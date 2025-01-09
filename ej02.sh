@@ -1,4 +1,5 @@
 #!/bin/bash
+#Realiza un backup de nuestra carpeta personal con tar
 FECHA=`date +%d-%m-%y` 
 USUARIO=$USER
 echo 'Comenzando el backup...'
