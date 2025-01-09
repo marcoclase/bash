@@ -1,6 +1,6 @@
 #!/bin/bash
 FECHA=`date +%d-%m-%y` 
-USER=marco
+USUARIO=$USER
 echo 'Comenzando el backup...'
-tar cvzf /tmp/$USER-$FECHA.tgz /home/$USER
+tar cvzf /tmp/$USUARIO-$FECHA.tgz /home/$USUARIO
 echo 'Backup terminado'
